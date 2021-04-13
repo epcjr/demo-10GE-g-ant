@@ -1,4 +1,4 @@
-# demo-perfsonar-mobile
+# demo-10GE-Géant
 Simple pscheduler commands and system configs to support mobile perfSONAR testpoints
 
 
